@@ -1,0 +1,6 @@
+
+Receipt
+Passport Number: 333
+From US Dollars to British Pound
+US Dollar Amount200
+British Pound:142.00
