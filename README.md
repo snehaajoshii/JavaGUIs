@@ -1,2 +1,2 @@
 ### Java 
-Using AWT & Swing to create GUI components
+Using AWT, Swing, ActionListener components to create GUI
